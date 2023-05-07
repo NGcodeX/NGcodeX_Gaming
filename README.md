@@ -9,7 +9,7 @@
 NGcodeX gaming is a site for community video games open to everyone. it will allow members to be synchronized with our games, our duels, our groups...etc
 This design is a modern and elegant website template designed for Gaming professionals. Thus NGcodeX Gaming can serve as a reference in a single page or serve as an ideal starting point for beginners connected.
 
-Deployment and go-live will be included and will be provided by [CodeurZEBS](https://github.com/NGUENAZEBS).
+Deployment and go-live will be included and will be provided by [CodeurZEBS](https://github.com/NGUENAZEBS) using [WorkFlow](https://github.com/NGcodeX/NGcodeX_Gaming/actions).
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
