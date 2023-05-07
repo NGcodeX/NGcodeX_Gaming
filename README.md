@@ -25,11 +25,5 @@ The basics of performance are covered: resources are reduced to single CSS and J
 </div>
 
 <div align="center">
-
-# PREVIEW
-<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/preview1.PNG?raw=true">
-<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/preview2.PNG?raw=true">
-<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/preview3.PNG?raw=true">
-<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/preview4.PNG?raw=true">
-<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/preview5.PNG?raw=true">
+<a href="https://ngcodex.github.io/NGcodeX_Gaming/"><h1>PREVIEW WEBSITE</h1></a>
 </div>
