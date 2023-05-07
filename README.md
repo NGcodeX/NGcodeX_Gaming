@@ -1,3 +1,7 @@
+<div align="center">
+<h2><a href="https://ngcodex.github.io/NGcodeX_Gaming/">👉👉PREVIEW WEBSITE</a></h2>
+</div>
+
 # [NGcodeX Gaming: HTML5 website ](https://github.com/orgs/NGcodeX/projects/4)
 
 ### [Gaming site developer](https://github.com/NGcodeX/NGcodeX_Gaming/graphs/contributors)
@@ -24,6 +28,4 @@ The basics of performance are covered: resources are reduced to single CSS and J
 <img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/Gamer2.png?raw=true" width="200px">
 </div>
 
-<div align="center">
-<a href="https://ngcodex.github.io/NGcodeX_Gaming/"><h1>PREVIEW WEBSITE</h1></a>
-</div>
+
