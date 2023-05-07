@@ -1,5 +1,5 @@
 <div align="center">
-<h2><a href="https://ngcodex.github.io/NGcodeX_Gaming/">👉👉PREVIEW WEBSITE</a></h2>
+<h2><a href="https://ngcodex.github.io/NGcodeX_Gaming/">👉PREVIEW WEBSITE👈</a></h2>
 </div>
 
 # [NGcodeX Gaming: HTML5 website ](https://github.com/orgs/NGcodeX/projects/4)
