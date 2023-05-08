@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/NGcodeXheader.png?raw=true">
+<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/NGcodeXHead.png?raw=true">
 <h2><a href="https://ngcodex.github.io/NGcodeX_Gaming/">👉PREVIEW WEBSITE👈</a></h2>
 </div>
 
@@ -27,6 +27,8 @@ The basics of performance are covered: resources are reduced to single CSS and J
 <img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/Gamer1.png?raw=true" width="200px">
 <img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/Gamer3.png?raw=true" width="200px">
 <img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/Gamer2.png?raw=true" width="200px">
+<br>
+<img src="https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/.github/workflows/private/NGcodeXheader.png?raw=true">
 </div>
 
 
