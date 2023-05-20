@@ -16,7 +16,7 @@ This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
 The basics of performance are covered: resources are reduced to single CSS and JS files, and images are optimized guys!!!.
 
-[LIVE PREVIEW](#)
+[CONTRIBUTING.md](https://github.com/NGcodeX/NGcodeX_Gaming/blob/main/CONTRIBUTING.md)
 
 ## Misc:
 
